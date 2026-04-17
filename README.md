@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/header-animated.svg" alt="Tebrix" width="100%" />
+  <img src="./header.png" alt="Tebrix" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./assets/pill-status.svg" alt="Active Build" height="28" />
-  <img src="./assets/pill-product.svg" alt="Visual Builder" height="28" />
-  <img src="./assets/pill-platform.svg" alt="For Tebex" height="28" />
+  <img src="./pill-status.png" alt="Active Build" height="28" />
+  <img src="./pill-product.png" alt="Visual Builder" height="28" />
+  <img src="./pill-platform.png" alt="For Tebex" height="28" />
 </div>
 
 <br />
@@ -17,7 +17,7 @@
 
 <br />
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
+<img src="./divider.png" alt="divider" width="100%" />
 
 ## Overview
 
@@ -94,7 +94,7 @@ shadcn/ui
 - style tokens
 - Tebex-friendly output
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
+<img src="./divider.png" alt="divider" width="100%" />
 
 ## Activity
 
@@ -117,5 +117,5 @@ shadcn/ui
 <br />
 
 <div align="center">
-  <img src="./assets/tebrix-wordmark.svg" alt="Tebrix wordmark" width="340" />
+  <img src="./tebrix-wordmark.png" alt="Tebrix wordmark" width="340" />
 </div>
