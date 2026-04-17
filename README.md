@@ -96,11 +96,6 @@ shadcn/ui
 
 <img src="./divider.png" alt="divider" width="100%" />
 
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tebrix-Studio&bg_color=171717&color=f5f5f5&line=396ff8&point=396ff8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</div>
 
 ## Connect
 
