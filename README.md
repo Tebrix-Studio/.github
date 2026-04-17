@@ -117,5 +117,5 @@ shadcn/ui
 <br />
 
 <div align="center">
-  <img src="./tebrix-wordmark.png" alt="Tebrix wordmark" width="340" />
+  <img src="./wordmark.png" alt="Tebrix wordmark" width="340" />
 </div>
